@@ -1,2 +1,1 @@
-# learn_python
-learn_python
+# love_python
